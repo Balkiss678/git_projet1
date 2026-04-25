@@ -32,7 +32,7 @@ git config --global user.name "Balkiss Mzoughi"
 git config --global user.name "Rima Ben Arfi"
 git config --global user.email "balkissexrd@gmail.com"
 
-4. Utilisation :
+## 4. Utilisation :
 - Ajouter les fichiers :
 git add .
 
@@ -45,11 +45,10 @@ git push origin main
 - Récupérer les modifications :
 git pull
 
-5. Auteurs :
-Balkiss Mzoughi
-Rima Ben Arfi
+## 5. Auteurs :
+- Balkiss Mzoughi
 
-Remarque :
+## Remarque :
 Git permet de :
 
 - suivre les versions du code
