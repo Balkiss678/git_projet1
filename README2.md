@@ -23,16 +23,14 @@ Avant de commencer, vous devez installer :
 Cloner un dépôt :
 
 git clone git clone https://github.com/Balkiss678/git-initiation
-Initialiser Git :
 
-git init
 Configurer Git :
 
 git config --global user.name "Balkiss Mzoughi"
-git config --global user.name "Rima Ben Arfi"
+
 git config --global user.email "balkissexrd@gmail.com"
 
-4. Utilisation :
+4. Utilisation 
 - Ajouter les fichiers :
 git add .
 
@@ -46,10 +44,10 @@ git push origin main
 git pull
 
 5. Auteurs :
-Balkiss Mzoughi
-Rima Ben Arfi
 
-Remarque :
+- Balkiss Mzoughi
+
+## Remarque :
 Git permet de :
 
 - suivre les versions du code
